@@ -24,7 +24,7 @@ $sender->send(['0818282829', '..number..'], 'message');
 // check credit remain
 $sender->checkCredit();
 
-All `Sender` apis are return `PhpMob\ThaiBulkSms\Result` object.
+// All `Sender` APIs are return `PhpMob\ThaiBulkSms\Result` object.
 ```
 
 ### Use `GuzzleAdapter` as client.
