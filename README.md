@@ -1,6 +1,21 @@
 # thai-bulk-sms
 Thai bulk sms api in php.
 
+### Installation
+This package is not release yet that mean you can't install it by `composer require phpmob/thai-bulk-sms` at this time.
+For now to install you need to require it directly in your `composer.json`:
+
+```json
+"require": {
+    "phpmob/thai-bulk-sms": "1.0.x-dev"
+}
+```
+and ..
+
+```shell
+$ composer update
+```
+
 ### Usage
 
 ```php
