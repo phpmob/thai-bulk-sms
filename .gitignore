@@ -1,0 +1,4 @@
+/vendor/
+/bin/*
+!/bin/thai-bulk-sms
+!/bin/thai-bulk-sms.php
