@@ -49,7 +49,7 @@ final class Sender implements SenderInterface
         $resolver
             ->setDefaults([
                 'force' => 'standard',
-                'api_path' => 'sms_api.php',
+                'api_path' => '/sms_api.php',
                 'sandbox' => true,
                 'sandbox_api_path' => '/sms_api_test.php',
             ])
